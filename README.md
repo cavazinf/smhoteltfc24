@@ -39,7 +39,7 @@ Para interagir com este contrato, é necessário utilizar uma carteira Ethereum 
 
 ## Autor
 
-Este contrato foi escrito por [Seu Nome].
+WEB3DEV.
 
 ## Recursos Educacionais
 
